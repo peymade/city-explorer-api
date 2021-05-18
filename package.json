@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "server for city server",
   "main": "index.js",
-  
   "repository": {
     "type": "git",
     "url": "city-explorer"
@@ -17,5 +16,5 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "dotenv": "^9.0.2"
-}
+  }
 }
