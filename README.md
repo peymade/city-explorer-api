@@ -21,12 +21,36 @@
 <!-- Give credit (and a link) to other people or resources that helped you build this application. -->
 
 ## Time Estimates
-Name of feature: ________________________________
 
-Estimate of time needed to complete: _____
+5/18/2021
+Name of feature: 1
 
-Start time: _____
+Estimate of time needed to complete: 1.5 hours
 
-Finish time: _____
+Start time: 3:15
 
-Actual time needed to complete: _____
+Finish time: 5:30
+
+Actual time needed to complete: 2 hours, 15 mins
+
+
+Name of feature: 2
+
+Estimate of time needed to complete: 2 hours
+
+Start time: 6
+
+Finish time: 7:30
+
+Actual time needed to complete: 1.5 hours
+
+
+Name of feature: 3
+
+Estimate of time needed to complete: 1 hour
+
+Start time: 8
+
+Finish time: 8:30
+
+Actual time needed to complete: 30 mins
