@@ -15,8 +15,6 @@ const MOVIE_API_KEY = process.env.MOVIE_API_KEY;
 // Heroku needs this!!
 const PORT = process.env.PORT || 3030;
 
-const weather = require('./data/weather.json');
-
 // initilize the express library
 const app = express();
 app.use(cors());
@@ -51,7 +49,6 @@ async function handleMovies (request, response){
   let urlMovie =`https://api.themoviedb.org/3/search/movie?api_key=${MOVIE_API_KEY}&query=${searchQ}`
 
   try{
-
     const results = await axios.get(urlMovie);
 
     const allMovies = results.data.results.map(movie => new Movie(movie)); 
@@ -85,19 +82,6 @@ function Forecast(day) {
 function Error(error, response) {
   response.status('500').send('Internal Server Error');
 }
-
-
-// app.get('/shoppinglist', (request, response) => {
-
-//   const data = [
-//     'milk',
-//     'eggs',
-//     'bread',
-//   ]
-
-//   response.json(data);
-// });
-
 
 // open up the server on a specfic port
 app.listen(PORT, () => console.log('Server is running'));

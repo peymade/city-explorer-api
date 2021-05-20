@@ -54,3 +54,37 @@ Start time: 8
 Finish time: 8:30
 
 Actual time needed to complete: 30 mins
+
+
+5/19/2021
+Name of feature: 1
+
+Estimate of time needed to complete: 1.5 hours
+
+Start time: 2:30
+
+Finish time: 4:00
+
+Actual time needed to complete: 1.5 hours
+
+
+Name of feature: 2
+
+Estimate of time needed to complete: 1 hour
+
+Start time: 5
+
+Finish time: 6:30
+
+Actual time needed to complete: 1.5 hours
+
+
+Name of feature: 3
+
+Estimate of time needed to complete: 30 minutes
+
+Start time: 6:30
+
+Finish time: 7:30
+
+Actual time needed to complete: 1 hour
