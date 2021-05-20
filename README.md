@@ -1,6 +1,6 @@
 # City Explorer Server
 
-**Author**: Peyton Madeer
+**Author**: Peyton Mader
 **Version**: 1.0.0 
 
 ## Overview
