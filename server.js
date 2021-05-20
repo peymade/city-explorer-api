@@ -78,7 +78,7 @@ function Movie(movie) {
 
 function Forecast(day) {
     this.date = day.datetime;
-    this.description = `Low of ${day.low_temp}, high of ${day.high_temp}, with ${day.weather.description}`;
+    this.description = `Low of ${day.low_temp} and high of ${day.high_temp}, with ${day.weather.description}`;
   
 }
 
